@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Data Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>472da1f7-d9e1-4f55-a7b9-bfc19252e26b</testCaseGuid>
+   <variable>
+      <defaultValue>'ramesh.gupta@gmail.com'</defaultValue>
+      <description></description>
+      <id>615ee89f-f33a-421d-a6ac-5de85561a5e7</id>
+      <masked>false</masked>
+      <name>tc_Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>c0f41a04-ed1f-471a-a785-893697699e00</id>
+      <masked>false</masked>
+      <name>tc_Password</name>
+   </variable>
+</TestCaseEntity>
